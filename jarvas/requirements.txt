@@ -1,0 +1,6 @@
+pyttsx3
+SpeechRecognition
+requests
+wikipedia
+pyautogui
+Pillow
